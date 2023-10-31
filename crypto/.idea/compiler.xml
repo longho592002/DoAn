@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="android.cloud_firestore" target="14" />
+      <module name="android.firebase_core" target="14" />
+      <module name="android.firebase_messaging" target="14" />
+      <module name="io.flutter.plugins.firebase.cloudfirestore.android.cloud_firestore" target="14" />
+      <module name="io.flutter.plugins.firebase.core.android.firebase_core" target="14" />
+      <module name="io.flutter.plugins.firebasemessaging.android.firebase_messaging" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
