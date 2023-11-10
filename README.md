@@ -10,6 +10,8 @@ Với phần phân tích giá vàng thì sẽ gồm 2 file python là displaySig
   - Nhập “pip install -r requirement.txt”
 Sau khi thực hiện xong, người dùng đã có thể chạy 2 file python. File displaySignal dùng để hiện thị tín hiệu cho thấy giá vàng sắp tăng hay giảm. Tín hiệu này được thể hiện trong terminal, với giá trị ở cột divSignal là 1 thì là dấu hiệu giá vàng sẽ tăng và nếu giá trị là 2 nghĩa là giá vàng sắp tới sẽ giảm
 ![image](https://github.com/longho592002/DoAn/assets/71805121/3e47d8a8-3f38-4a77-97ae-2b06dceb8ec0)
+
 Còn file displayCandle dùng để hiển thị thông tin biểu đồ của giá vàng trên website
 ![image](https://github.com/longho592002/DoAn/assets/71805121/f773ad38-4519-4b8d-94f5-9bf6dc4da06f)
+
 **Người dùng nên sử dụng vào các ngày từ thứ 2 đến thứ 6, ngoài thời gian này, thị trường giá vàng sẽ không hoạt động nên sẽ không áp dụng được việc phân tích dữ liệu theo thời gian thực**
